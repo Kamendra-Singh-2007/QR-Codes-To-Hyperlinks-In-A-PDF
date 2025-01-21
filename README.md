@@ -46,14 +46,6 @@ This is the main script that:
   
 ---
 
-## Troubleshooting
-
-- ⚠️ **`zbar` not found**: Ensure `zbar` is installed and available in your system's PATH.
-- ❌ **No QR codes detected**: Ensure the QR codes in the PDF are clear and scannable.
-- 🛠️ **GUI not opening**: Avoid running the script in IDLE; use a terminal or an IDE.
-
----
-
 ## Acknowledgments
 
 - 📘 **PyMuPDF** for PDF rendering and manipulation.
