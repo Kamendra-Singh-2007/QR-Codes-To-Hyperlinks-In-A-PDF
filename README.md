@@ -1,4 +1,4 @@
-# QR Code Hyperlinker for PDFs
+# Make QR Codes Clickable In PDFs
 
 This Python script automates the process of detecting QR codes in a PDF and adding clickable hyperlinks to them. Designed to be user-friendly with a simple GUI for selecting files, it ensures QR codes in PDFs are easily accessible via clickable links.
 
